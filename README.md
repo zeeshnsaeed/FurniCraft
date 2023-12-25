@@ -6,7 +6,7 @@ Welcome to FurniCraft, your go-to destination for stylish and modern furniture s
 FurniCraft is a React.js-based online furniture store that aims to provide a seamless and enjoyable shopping experience. Explore a curated collection of high-quality furniture designed to enhance your living spaces.
 
 # Features
-**Sleek Design:** Enjoy a visually appealing and user-friendly interface. <br />
-**Responsive:** Seamlessly browse and shop on any device. <br />
-**Easy Navigation:** Find the perfect piece with intuitive category filters. <br />
-**Secure Checkout:** Shop confidently with our secure and reliable checkout process. <br />
+**Sleek Design:** Enjoy a visually appealing and user-friendly interface. <br/>
+**Responsive:** Seamlessly browse and shop on any device. <br/>
+**Easy Navigation:** Find the perfect piece with intuitive category filters. <br/>
+**Secure Checkout:** Shop confidently with our secure and reliable checkout process. <br/>
